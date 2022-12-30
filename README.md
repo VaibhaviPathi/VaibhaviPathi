@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VaibhaviPathi
+- 👀 I’m interested in Event Studies and using Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me www.linkedin.com/in/vaibhavi-pathi-4b125a214
